@@ -17,4 +17,5 @@ src="https://cdn.discordapp.com/avatars/917139371373764641/a_4e2a26593607e93ae51
 src="https://cdn.discordapp.com/emojis/1193316780156928010.png?v=1" width="30"></h6>
 
 <h6>rip.skiper <img
-src="https://cdn.discordapp.com/emojis/1193316618890129439.png?v=1"
+src="https://cdn.discordapp.com/emojis/1193316618890129439.png?v=1" width="30"></h3>
+<img
