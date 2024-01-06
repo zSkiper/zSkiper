@@ -4,7 +4,5 @@
 <br>
 <hr>
 <img
-
-
 <h3 align="center">My Discord <img src="https://cdn.discordapp.com/emojis/1186729108500140053.png?v=1" width="30"></h3>
 <img
