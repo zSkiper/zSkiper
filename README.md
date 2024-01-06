@@ -6,3 +6,8 @@
 <h3>$kiper <img src="https://cdn.discordapp.com/emojis/1186668160590565456.gif?v=1" width="30"></h3>
 <h6>CR Gvng <img src="https://cdn.discordapp.com/emojis/894771957977985024.gif?v=1" width="30"></h6>
 
+<br>
+<hr>
+<h3 align="center">My Discord <img src="https://cdn.discordapp.com/emojis/1081702984234324008.gif?v=1" width="30"></h3>
+<img
+
