@@ -4,8 +4,6 @@
 <br>
 <hr>
 
-src="https://cdn.discordapp.com/avatars/917139371373764641/a_4e2a26593607e93ae51e0f4ecfbbabac.gif?size=2048" align="left" width="100" height="100">
+src="https://cdn.discordapp.com/avatars/917139371373764641/a_4e2a26593607e93ae51e0f4ecfbbabac.gif?size=2048" align="left" width="150" height="150">
 <h3>rip.skiper <img
 src="https://cdn.discordapp.com/emojis/873700719570604032.gif?v=1" width="30"></h6>
-<br>
-<hr>
