@@ -8,6 +8,4 @@
     <summary><h1 style="display: inline-block">I'm Skiper</h1></summary>
   </ul>
 </div>
-
-
-![pablo](https://github.com/zSkiper/zSkiper/assets/155781649/153ddb1a-9a84-47c2-a303-b89911ec7a39)
+![pablito](https://github.com/zSkiper/zSkiper/assets/155781649/0a937a6c-a3ca-42f3-956d-87fb8d0f9ef8)
