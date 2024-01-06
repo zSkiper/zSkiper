@@ -1,1 +1,1 @@
-<h1 align="center">Hi i'm Skiper</h1> src="https://cdn.discordapp.com/emojis/1186668160590565456.gif?v=1" width="30"></h3>
+<h1 align="center">Hi i'm Skiper</h1> 
