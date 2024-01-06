@@ -5,4 +5,4 @@
 <hr>
 <img
 
-<h3 align="center">my Discord <img src="https://cdn.discordapp.com/attachments/1182478334949601411/1193032264611790928/81_sin_titulo_20240105212400.png?ex=65ab3ce1&is=6598c7e1&hm=b142b677d9e3d071bdf77df0dcc06338aa5f31ec395d4ad7757354a27a5ec218&" width="30"></h3>
+<h3 align="center">my Discord <img src="https://cdn.discordapp.com/attachments/1182478334949601411/1193032264611790928/81_sin_titulo_20240105212400.png?ex=65ab3ce1&is=6598c7e1&hm=b142b677d9e3d071bdf77df0dcc06338aa5f31ec395d4ad7757354a27a5ec218&" width="270"></h3>
