@@ -6,5 +6,5 @@
 <img
 
 
-<h3 align="center">I code with <img src="https://cdn.discordapp.com/emojis/1081702984234324008.gif?v=1" width="30"></h3>
+<h3 align="center">My Discord <img src="https://cdn.discordapp.com/emojis/1186729108500140053.png?v=1" width="30"></h3>
 <img
