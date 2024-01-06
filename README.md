@@ -19,3 +19,7 @@ src="https://cdn.discordapp.com/emojis/1193316780156928010.png?v=1" width="30"><
 <h6>rip.skiper <img
 src="https://cdn.discordapp.com/emojis/1193316618890129439.png?v=1" width="30"></h3>
 <img
+
+<img
+src="https://cdn.discordapp.com/attachments/1182152474501591070/1193320106978185289/df87gr9-10e486ad-d8bb-445f-abda-c2d8c0093f07.gif?ex=65ac48f4&is=6599d3f4&hm=fc41b4f6365d6ff21beb90c64c72f44185b2e852f2d70c3107b567d898cc736c&" align="right" width="50" height="50"></h3>
+<img
