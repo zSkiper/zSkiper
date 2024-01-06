@@ -1,13 +1,2 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">I'm Skiper</h1></summary>
-  </ul>
-</div>
-
-
-![pablito](https://github.com/zSkiper/zSkiper/assets/155781649/0a937a6c-a3ca-42f3-956d-87fb8d0f9ef8)
+<img src="![pablito](https://github.com/zSkiper/zSkiper/assets/155781649/0a937a6c-a3ca-42f3-956d-87fb8d0f9ef8)" align="left" width="150" height="150">
+<h3>I'am Skiper <img src="https://cdn.discordapp.com/emojis/1081703197795696711.gif?v=1" width="30"></h3>
