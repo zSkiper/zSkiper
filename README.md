@@ -8,7 +8,7 @@
 
 <br>
 <hr>
-<h3 align="center">My Discord <img src="https://cdn.discordapp.com/emojis/1073813298883080193.gif?v=1" width="30"></h3>
+<h3 align="center">My Discord  <img src="https://cdn.discordapp.com/emojis/1073813298883080193.gif?v=1" width="30"></h3>
 <img
 
 <img
