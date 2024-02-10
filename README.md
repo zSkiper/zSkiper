@@ -6,19 +6,3 @@
 <h3>$kiper <img src="https://cdn.discordapp.com/emojis/1186668160590565456.gif?v=1" width="30"></h3>
 <h6>CR Gvng <img src="https://cdn.discordapp.com/emojis/894771957977985024.gif?v=1" width="30"></h6>
 
-<br>
-<hr>
-<h3 align="center">My Discord  <img src="https://cdn.discordapp.com/emojis/1073813298883080193.gif?v=1" width="30"></h3>
-<img
-
-<img
-src="https://cdn.discordapp.com/avatars/917139371373764641/a_4e2a26593607e93ae51e0f4ecfbbabac.gif?size=2048" align="left" width="150" height="150">
-<h3> ! $kiper' <img
-src="https://cdn.discordapp.com/emojis/1193316780156928010.png?v=1" width="30"></h6>
-
-<h6> rip.skiper <img
-src="https://cdn.discordapp.com/emojis/1193316618890129439.png?v=1" width="30"></h3>
-<img
-
-<img
-src="https://cdn.discordapp.com/attachments/1182152474501591070/1193320106978185289/df87gr9-10e486ad-d8bb-445f-abda-c2d8c0093f07.gif?ex=65ac48f4&is=6599d3f4&hm=fc41b4f6365d6ff21beb90c64c72f44185b2e852f2d70c3107b567d898cc736c&" align="right" width="50" height="50"></h3>
