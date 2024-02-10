@@ -4,5 +4,4 @@
 
 
 <h3>$kiper <img src="https://cdn.discordapp.com/emojis/1186668160590565456.gif?v=1" width="30"></h3>
-<h6>CR Gvng <img src="https://cdn.discordapp.com/emojis/894771957977985024.gif?v=1" width="30"></h6>
-
+<h6>DT4A <img src="https://cdn.discordapp.com/emojis/894771957977985024.gif?v=1" width="30"></h6>
