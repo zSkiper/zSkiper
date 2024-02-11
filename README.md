@@ -1,6 +1,6 @@
 <h1 align="center">Hi i'm Skiper</h1> 
 
-<img src="https://cdn.discordapp.com/attachments/1205234662738370610/1206031532477784084/IMG_20240206_132002_182.jpg?ex=65da8764&is=65c81264&hm=850a433610799ac03629a11e2d4c23eb4ad8465a62d339cfb5eb2d99708d2c61&"
+<img src="https://media.discordapp.net/attachments/1143821197805625358/1205552080530448436/20240209_103041.jpg" align="left" width="150" height="150">
 
 
 <h3>DeathTeam <img src="https://cdn.discordapp.com/emojis/1186668160590565456.gif?v=1" width="30"></h3>
